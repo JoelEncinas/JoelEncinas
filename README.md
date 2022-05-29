@@ -1,6 +1,6 @@
-<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! I'm Joel Encinas</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there!</h3>
 <p align="center">
-  <a href="https://joelencinas.github.io/">Portfolio</a>
+  <a href="https://joelencinas.github.io/" target="_blank">Portfolio</a>
 </p>
 
 ## About me
