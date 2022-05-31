@@ -9,4 +9,10 @@
 
 >*You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. - Dr. Seuss*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelEncinas&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+## 👨‍💻 Languages & stack
+- C# and Unity for building games
+- Good understanding of Html & Css 
+  - BEM methodology
+  - Bootstrap 5
+- Javascript
+- Basic knowledge of SQL
