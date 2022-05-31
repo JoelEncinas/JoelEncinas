@@ -5,7 +5,7 @@
 
 ## About me
 ✨ I'm Joel Encinas, a passionate self taught web & game developer. 
-- I like ⛰️ Hiking and ♟️ Chess too!
+- I like ⛰️ Hiking, 🛹 Skateboarding and ♟️ Chess too!
 
 >*You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. - Dr. Seuss*
 
