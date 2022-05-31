@@ -3,10 +3,11 @@
   <a href="https://joelencinas.github.io/" target="_blank">Portfolio</a>
 </p>
 
-## About me
-✨ I'm Joel Encinas, a passionate self taught web & game developer. 
+## 😀 About me
+I'm Joel Encinas, a passionate self taught web & game developer. 
 - I like ⛰️ Hiking, 🛹 Skateboarding and ♟️ Chess too!
 
+My motto:
 >*You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. - Dr. Seuss*
 
 ## 👨‍💻 Languages & stack
