@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there!</h3>
+<h1 align="center">👋 Hi there!</h1>
 <p align="center">
   <a href="https://joelencinas.github.io/" target="_blank">Portfolio</a>
 </p>
