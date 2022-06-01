@@ -10,7 +10,7 @@ I'm Joel Encinas, a passionate self taught web & game developer.
 My motto:
 >*You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. - Dr. Seuss*
 
-## 👨‍💻 Languages & stack
+## 👨‍💻 Stack
 - C# and Unity for building games
 - Javascript
 - Basic knowledge of SQL
