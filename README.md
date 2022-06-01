@@ -12,8 +12,8 @@ My motto:
 
 ## 👨‍💻 Languages & stack
 - C# and Unity for building games
+- Javascript
+- Basic knowledge of SQL
 - Good understanding of Html & Css 
   - BEM methodology
   - Bootstrap 5
-- Javascript
-- Basic knowledge of SQL
