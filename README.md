@@ -29,4 +29,6 @@ My motto:
         <li>C# + Unity</li>
     </ul>
   </div>
+  
+  <p>Check out my most noteworthy projects down in the pinned section ⬇️ or see the full list <a href="https://github.com/JoelEncinas?tab=repositories">here.</a></p>
 </div>
