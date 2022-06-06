@@ -30,5 +30,5 @@ My motto:
     </ul>
   </div>
   
-  <p>Check out my most noteworthy projects down in the pinned section ⬇️ or see the full list <a href="https://github.com/JoelEncinas?tab=repositories">here.</a></p>
+  <p>Check out my most noteworthy projects down in the pinned section ⬇️ or see the full list <a href="https://github.com/JoelEncinas?tab=repositories" target="_blank">here.</a></p>
 </div>
