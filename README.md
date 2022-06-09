@@ -16,9 +16,10 @@ My motto:
    <div style="display:flex;">
     <h3>Web - <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/html5.png" alt="html" width="15" height="15"/> <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/css3.png" alt="css" width="15" height="15"/> <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/bootstrap.png" alt="bootstrap" width="15" height="15"/> <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/javascript.png" alt="javascript" width="15" height="15"/></h3> 
      <ul>
-       <li>Web Fundamentals </li>
+       <li>HTML & CSS</li>
        <ul>
          <li>Bootstrap</li>
+         <li>BEM Methodology</li>
        </ul>
        <li>Javascript</li>
      </ul>
@@ -26,7 +27,8 @@ My motto:
   <div style="display:flex;">
       <h3>Games - <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/c_sharp.png" alt="csharp" width="15" height="15"/> <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/unity.png" alt="unity" width="15" height="15"/></h3>
       <ul>
-        <li>C# + Unity</li>
+        <li>C#</li>
+        <li>Unity</li>
     </ul>
   </div>
   
