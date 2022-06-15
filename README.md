@@ -18,8 +18,14 @@ My motto:
      <ul>
        <li>HTML & CSS</li>
        <ul>
-         <li>Bootstrap</li>
-         <li>BEM Methodology</li>
+         <li>Frameworks</li>
+         <ul>
+            <li>Bootstrap</li>
+         </ul>
+         <li>Methodologies</li>
+         <ul>
+            <li>BEM</li>
+         </ul>
        </ul>
        <li>Javascript</li>
      </ul>
