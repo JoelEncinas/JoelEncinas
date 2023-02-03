@@ -40,7 +40,7 @@ My motto:
      </ul>
   </div>
   <div style="display:flex;">
-      <h3>Games - <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/c_sharp.png" alt="csharp" width="15" height="15"/> <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/unity.png" alt="unity" width="15" height="15"/></h3>
+      <h3>Games</h3>
       <ul>
         <li>C#</li>
         <li>Unity</li>
