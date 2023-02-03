@@ -14,7 +14,7 @@ My motto:
 
 <div style="display:flex;">
    <div style="display:flex;">
-    <h3>Web - <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/html5.png" alt="html" width="15" height="15"/> <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/css3.png" alt="css" width="15" height="15"/> <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/bootstrap.png" alt="bootstrap" width="15" height="15"/> <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/javascript.png" alt="javascript" width="15" height="15"/> <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/jquery.png" alt="jquery" width="15" height="15"/> <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/sass.png" alt="sass" width="15" height="15"/> <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/react.png" alt="react" width="15" height="15"/> <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/redux.png" alt="redux" width="15" height="15"/> <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/npm.png" alt="npm" width="15" height="15"/> <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/node.png" alt="node" width="15" height="15"/>  <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/mongodb.png" alt="mongodb" width="15" height="15"/> <img src="https://raw.githubusercontent.com/JoelEncinas/JoelEncinas/main/stack_icons/git.png" alt="git" width="15" height="15"/></h3> 
+    <h3>Web</h3> 
      <ul>
        <li>HTML & CSS</li>
        <ul>
