@@ -1,7 +1,4 @@
-<h1 align="center">👋 Hi there!</h1>
-<p align="center">
-  <a href="https://joelencinas.github.io/" target="_blank">Portfolio</a>
-</p>
+<h1 align="center">👋 Hi there!</h1> 
 
 ## 😀 About me
 I'm Joel Encinas, a passionate self taught web & game developer. 
