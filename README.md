@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi there!</h1>
 
-## 😀 About me I'm Joel Encinas, a passionate self taught web & game developer
+## 😀 About me 
+I'm Joel Encinas, a passionate self taught web & game developer
 <ul>
   <li>I like ⛰️ Hiking, 🛹 Skateboarding and ♟️ Chess too!</li>
   <li>My motto:</li><br>
