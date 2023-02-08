@@ -10,7 +10,7 @@ My motto:
 ## 👨‍💻 Stack
 <div align="left">
   <ul>
-    <li>Front</li>
+    <li>Frontend</li>
     </br>
     <ul>
        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
@@ -20,10 +20,9 @@ My motto:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/> </li>
     </ul>
     </br>
-    <li>Back</li>
+    <li>Backend</li>
       </br>
     <ul>
       <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
@@ -37,13 +36,6 @@ My motto:
       <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="30" height="30"/></li>
     </ul>
-      </br>
-    <li>Other tech</li>
-      </br>
-    <ul>
-      <li><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></li>
-    </ul>
-      </br>
   </ul>
 </div>
 
