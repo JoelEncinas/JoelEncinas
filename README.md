@@ -82,10 +82,3 @@
         height="30"
       />
    </p>
-
-
-<h3>:hammer_and_wrench: Projects</h3>
-<p>
-  Check out my most noteworthy projects down in the pinned section ⬇️ or see the
-  full list <a href="https://github.com/JoelEncinas?tab=repositories">here.</a>
-</p>
