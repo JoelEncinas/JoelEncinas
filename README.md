@@ -4,11 +4,6 @@
 I'm Joel Encinas, a passionate self taught web & game developer
 <ul>
   <li>I like ⛰️ Hiking, 🛹 Skateboarding and ♟️ Chess too!</li>
-  <li>My motto:</li><br>
-  
-> *You have brains in your head. You have feet in your shoes. 
-> You can steer yourself any direction you choose. - Dr. Seuss* 
-
 </ul>
   
 ## 👨‍💻 Stack
