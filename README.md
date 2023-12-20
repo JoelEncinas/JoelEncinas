@@ -8,6 +8,6 @@
   <li><a href="https://github.com/JoelEncinas/Ace-Draft">Ace Draft</a> - React LoL drafting and statistics site.</li>
   <li><a href="https://github.com/JoelEncinas/Lux">Lux</a> - React LoL profile statistics site.</li>
   <li><a href="https://github.com/JoelEncinas/Demacia-vice">Demacia Vice</a> - Express & Handlebars LoL statistics about in-game pings.</li>
-  <li><a href="https://github.com/JoelEncinas/BattleHeaven-Fighting-RPG">BattleHeaven</a> - Unity Autobattler 2D RPG game for Android, available in the <a href="https://play.google.com/store/apps/details?id=com.MamecorpGames.BattleHeavenFightingRPG">play store</a>.</li>
+  <li><a href="https://github.com/JoelEncinas/BattleHeaven-Fighting-RPG">BattleHeaven</a> - Unity Autobattler 2D RPG game for Android, available in the play store.</li>
   <li><a href="https://github.com/JoelEncinas/Arcade-Skate">Arcade Skate</a> - Unity 2D Infinite Scroller about Skate, playable online at <a href="https://joelencinas.itch.io/arcade-skate">itch.io</a></li>
 </ul>
