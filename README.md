@@ -1,6 +1,6 @@
 <h3 align="left">👋 Hi there!</h3>
 
-<p>I'm an aspiring software developer focused on learning more about the web. Here is a list of my most noteworthy projects:</p>
+<p>I'm an aspiring software developer eager to learn more about the web. Here is a list of my most noteworthy projects:</p>
 <ul>
   <li><a href="https://github.com/JoelEncinas/Wyrms-lair">Wyrms Lair</a> - Express, MongoDB & Handlebars old-school text based RPG.</li>
   <li><a href="https://github.com/JoelEncinas/Zadar">Zadar</a> - Flask forum and info site about Temtem.</li>
