@@ -1,6 +1,8 @@
 <h3 align="left">👋 Hi there!</h3>
 
 <p>I'm an aspiring software developer eager to learn more about the web. Here is a list of my most noteworthy projects:</p>
+
+<h4>Web apps</h4>
 <ul>
   <li><a href="https://github.com/JoelEncinas/Wyrms-lair">Wyrms Lair</a> - Express, MongoDB & Handlebars old-school text based RPG.</li>
   <li><a href="https://github.com/JoelEncinas/Zadar">Zadar</a> - Flask forum and info site about Temtem.</li>
@@ -8,7 +10,11 @@
   <li><a href="https://github.com/JoelEncinas/Ace-Draft">Ace Draft</a> - React LoL drafting and statistics site.</li>
   <li><a href="https://github.com/JoelEncinas/Lux">Lux</a> - React LoL profile statistics site.</li>
   <li><a href="https://github.com/JoelEncinas/Demacia-vice">Demacia Vice</a> - Express & Handlebars LoL statistics about in-game pings.</li>
+  <li><a href="https://github.com/JoelEncinas/JoelEncinas.github.io">Portfolio</a> - 3D Interactive portfolio made with React-Three-Fiber & CannonJS. Check it out <a href="https://joelencinas.github.io/">here</a>.</li>
+</ul>
+
+<h4>Games</h4>
+<ul>
   <li><a href="https://github.com/JoelEncinas/BattleHeaven-Fighting-RPG">BattleHeaven</a> - Unity Autobattler 2D RPG game for Android, available in the play store.</li>
   <li><a href="https://github.com/JoelEncinas/Arcade-Skate">Arcade Skate</a> - Unity 2D Infinite Scroller about Skate, playable online at <a href="https://joelencinas.itch.io/arcade-skate">itch.io</a>.</li>
-  <li><a href="https://github.com/JoelEncinas/JoelEncinas.github.io">Portfolio</a> - 3D Interactive portfolio made with React-Three-Fiber & CannonJS. Check it out <a href="https://joelencinas.github.io/">here</a>.</li>
 </ul>
