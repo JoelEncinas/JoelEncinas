@@ -1,6 +1,6 @@
 <h3 align="left">👋 Hi there!</h3>
 
-<p>I'm an aspiring software developer eager to learn more about the web. Here is a list of my most noteworthy projects:</p>
+<p>I'm a software developer eager to learn more about the web, be it frontend of backend. Here is a list of my most noteworthy projects:</p>
 
 <h4>Web apps</h4>
 <ul>
