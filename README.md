@@ -4,6 +4,7 @@
 
 <h4>Web apps</h4>
 <ul>
+  <li><a href="https://github.com/JoelEncinas/Chess-Scan">Chess Scan</a> - Django & OpenCV computer vision chess app.</li>
   <li><a href="https://github.com/JoelEncinas/Wyrms-lair">Wyrms Lair</a> - Express, MongoDB & Handlebars old-school text based RPG.</li>
   <li><a href="https://github.com/JoelEncinas/Zadar">Zadar</a> - Flask forum and info site about Temtem.</li>
   <li><a href="https://github.com/JoelEncinas/SNES-MarioKart-API">SNES Mario Kart API</a> - Express & MongoDB REST API about Mario Kart.</li>
